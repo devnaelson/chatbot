@@ -7,6 +7,23 @@ Installs
   python3
 ```
 
+Sobre o documento document.json
+Funciona assim. 
+A chave, index, key, seja o que prefere chamar. a Pai cono a baixo de nome ola. Ela pode ser custom. As demais chaves como
+field_contexto,
+field_titulo,
+field_lista
+devem ser a mesma. 
+
+```
+    "ola": {
+        "field_contexto": "Bem vindo, é a frase mais preferida de quando se inicia uma conversa.",
+        "field_titulo": "Bem vindo ao Chat Bot do Naelson.",
+        "field_lista": [
+            "Seja bem vindo, ao Chatbot"
+        ]
+    }
+```
 
 <img src="./imagens/a.png" alt="drawing" width="400"/><br>
 <img src="./imagens/b.png" alt="drawing" width="400"/><br>
