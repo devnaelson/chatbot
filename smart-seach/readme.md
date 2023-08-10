@@ -1,12 +1,5 @@
-Padroes para algorismo. 
-Se 1 itém apenas for maior do que 80% de a resposta.
-Se 1 itém apenas ser maior e tiver somente ele na casa dele, retorna resposta.
-Se nao check first parameter keys similarity and começe novamente. 
+### Esse pequeno sistema nasceu da ideias de aprendizagem na tentativa de acriar algo similar ao lanchain, reduzindo o tempo de demora, colocando em pratica conhecimentos de embedding. Isso é uma ideia pratica que levou um certo tempo, mas que a colheita foi novos conhecimentos e limitações osbre LLM,NTK,NPL e todas as suas técnicas. 
 
-Se muitas similaridades notas no mesmo range, joga para GPT porque ele ta sem contexto. Leva também as chaves topicos e descrição;  
 
-Se 1 itém tiver mais de 2 similáriedade e tiver na mesma casa, exemplo 0.5200,0.5700 [
- 	pergunta um contexto ao usuario e de essas duas chaves como sugestão
-]
-
-Se 2 item tive na proximo 1 casa a baixo do outro, leva para GPT esses dois templates para responder.
+### Perfil do LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
