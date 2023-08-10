@@ -25,8 +25,12 @@ devem ser a mesma.
     }
 ```
 
-<img src="./imagens/a.png" alt="drawing" width="400"/><br>
-<img src="./imagens/b.png" alt="drawing" width="400"/><br>
+<img src="./imagens/ola.png" alt="drawing" width="800"/><br>
+<img src="./imagens/saida.png" alt="drawing" width="800"/><br>
+
+<img src="./imagens/saida-wihtouContext.png" alt="drawing" width="800"/><br>
+<img src="./imagens/saida-Contexted.png.png" alt="drawing" width="800"/><br>
+<img src="./imagens/terminal.png" alt="drawing" width="800"/><br>
 
 ### Perfil do LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
