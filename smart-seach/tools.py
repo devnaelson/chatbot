@@ -10,7 +10,7 @@ import docs as load
 # Set up your OpenAI API credentials
 
 openai.api_type = "azure"
-openai.api_base = "https://soulvirtual.openai.azure.com/"
+openai.api_base = "https://xxxxxxxx.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
 openai.api_key = ""
 
