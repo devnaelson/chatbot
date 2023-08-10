@@ -28,6 +28,8 @@ devem ser a mesma.
 ```
 
 <img src="./imagens/ola.png" alt="drawing" width="800"/><br>
+- Como visto na imagem acima e na estrutura do JSON, ele deu match exibiu o titulo e um itém da lista.
+  
 <img src="./imagens/saida.png" alt="drawing" width="800"/><br>
 
 <img src="./imagens/saida-wihtouContext.png" alt="drawing" width="800"/><br>
