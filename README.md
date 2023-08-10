@@ -31,10 +31,16 @@ devem ser a mesma.
 - Como visto na imagem acima e na estrutura do JSON, ele deu match exibiu o titulo e um itém da lista.
   
 <img src="./imagens/saida.png" alt="drawing" width="800"/><br>
-
+- Uma das coisas legais, e que eu tentei manter, caso ele encontre a chave pai, ele da um display exatamente o que contém no array.
+  
 <img src="./imagens/saida-wihtouContext.png" alt="drawing" width="800"/><br>
+- Aqui cmo você pode ver eu fiz uma pesquisa sem contexto, a resposta dada a mim.
+  
 <img src="./imagens/saida-Contexted.png.png" alt="drawing" width="800"/><br>
+- Logo em seguida, eu adicionei mais contexto para da match na similaridade do campo field_contexto.
+  
 <img src="./imagens/terminal.png" alt="drawing" width="800"/><br>
+- Uma das enorme vatagem desse pequeno prototipo, é a economia do token, onde o mesmo unsado o langchain, gasta 3x mais.
 
 ### Perfil do LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devnaelson/)
