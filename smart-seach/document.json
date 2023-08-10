@@ -1,0 +1,18 @@
+{
+    "ola": {
+        "field_contexto": "Bem vindo, é a frase mais preferida de quando se inicia uma conversa.",
+        "field_titulo": "Bem vindo ao Chat Bot do Naelson.",
+        "field_lista": [
+            "Seja bem vindo, ao Chatbot"
+        ]
+    },
+    "saidas": {
+        "field_contexto": "Saidas para o canada, Dias 19 periodo noturno.",
+        "field_titulo": "Do Atlântico ao Pacífico CAN 19 DIAS - 16 NOITES",
+        "field_lista": [
+            "1. Mai. 11",
+            "2. Jul. 27",
+            "3. Set. 14"
+        ]
+    }
+}
