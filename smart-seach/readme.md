@@ -1,4 +1,4 @@
-###### Esse pequeno sistema nasceu da ideias de aprendizagem na tentativa de acriar algo similar ao lanchain, reduzindo o tempo de demora, colocando em pratica conhecimentos de embedding. Isso é uma ideia pratica que levou um certo tempo, mas que a colheita foi novos conhecimentos e limitações osbre LLM,NTK,NPL e todas as suas técnicas. 
+###### Este pequeno sistema nasceu da ideia de aprendizagem, na tentativa de criar algo semelhante ao 'lanchain', reduzindo o tempo de espera e colocando em prática conhecimentos de embedding. Essa é uma ideia prática que levou certo tempo para ser desenvolvida, mas que resultou em novos conhecimentos e uma compreensão mais profunda sobre LLM, NTK, NLP e todas as suas técnicas. 
 
 
 ### Perfil do LinkedIn
