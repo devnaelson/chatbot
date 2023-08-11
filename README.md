@@ -3,7 +3,7 @@
 Essa é uma ideia prática que levou certo tempo para ser desenvolvida, mas que resultou em novos conhecimentos e uma compreensão mais profunda sobre LLM, NTK, NLP e todas as suas técnicas, estou deixando como portifólio, mas também, vou ta compartilhando com a galera.
 
 Installs
-
+Em tools.py adiciona a sua chave openai.api_key = "" 
 ```
   imports
   python3
