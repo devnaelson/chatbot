@@ -2,11 +2,15 @@
 
 Essa é uma ideia prática que levou certo tempo para ser desenvolvida, mas que resultou em novos conhecimentos e uma compreensão mais profunda sobre LLM, NTK, NLP e todas as suas técnicas, estou deixando como portifólio, mas também, vou ta compartilhando com a galera.
 
-Installs
+Installs, precisa instalar as libs. Algumas eu desativei, pois parei com o desenvolvimento por um tempo.
 Em tools.py adiciona a sua chave openai.api_key = "" 
 ```
-  imports
-  python3
+pip install streamlit
+pip install -U scikit-learn
+pip install tensorflow==2.2.0
+pip install transformers
+pip install nltk
+python -m nltk.downloader punkt
 ```
 
 Sobre o documento document.json
