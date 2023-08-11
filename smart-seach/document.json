@@ -14,5 +14,12 @@
             "2. Jul. 27",
             "3. Set. 14"
         ]
+    },
+    "internet": {
+        "field_contexto": "A internet é uma rede de comunicação entre pessoas em todo o mundo.",
+        "field_titulo": "Internet e comunicação",
+        "field_lista": [
+            "Internet"
+        ]
     }
 }
