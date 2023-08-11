@@ -9,9 +9,9 @@ import docs as load
 
 # Set up your OpenAI API credentials
 
-openai.api_type = "azure"
-openai.api_base = "https://xxxxxxxx.openai.azure.com/"
-openai.api_version = "2023-03-15-preview"
+#openai.api_type = "azure"
+#openai.api_base = "https://xxxxxxxx.openai.azure.com/"
+#openai.api_version = "2023-03-15-preview"
 openai.api_key = ""
 
 def chat_with_ai(role='', user_input='', max_tokens=256):
@@ -37,7 +37,7 @@ def chat_with_ai(role='', user_input='', max_tokens=256):
 
     messages.append({"role": "user", "content": user_input})
     response = openai.ChatCompletion.create(
-        engine="Soul-virtual",
+        model="gpt-3.5-turbo",
         messages=messages,
         max_tokens=max_tokens,
         n=1,
